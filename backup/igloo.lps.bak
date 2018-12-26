@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="19">
+      <Unit0>
+        <Filename Value="igloo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="igloo"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="37" Y="14"/>
+        <UsageCount Value="182"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="splash.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmSplash"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Splash"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="22" Y="20"/>
+        <UsageCount Value="182"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="32" Y="43"/>
+        <UsageCount Value="182"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="globalvar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GlobalVar"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="464"/>
+        <CursorPos X="80" Y="471"/>
+        <UsageCount Value="182"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="options.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmOptions"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Options"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="72"/>
+        <CursorPos X="5" Y="123"/>
+        <UsageCount Value="170"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="new.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmNew"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="New"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="113"/>
+        <CursorPos X="32" Y="142"/>
+        <UsageCount Value="154"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="result.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmResult"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Result"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="141"/>
+        <CursorPos X="27" Y="151"/>
+        <UsageCount Value="130"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="info.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmInfo"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Info"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="36" Y="14"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="E:\Lazarus\Cookie.lpr"/>
+        <UnitName Value="Cookie"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="32" Y="10"/>
+        <UsageCount Value="6"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="E:\Lazarus\test.pas"/>
+        <UnitName Value="Test"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="134"/>
+        <CursorPos X="32" Y="22"/>
+        <UsageCount Value="2"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="main.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="40884"/>
+        <CursorPos X="15" Y="40899"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="I:\test.pas"/>
+        <UnitName Value="test"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="15" Y="3"/>
+        <UsageCount Value="1"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="calculate.pas"/>
+        <ComponentName Value="FrmCalculate"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Calculate"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="9"/>
+        <CursorPos X="25" Y="17"/>
+        <UsageCount Value="12"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2814"/>
+        <CursorPos X="1" Y="2831"/>
+        <UsageCount Value="5"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="splash.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="options.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2526"/>
+        <CursorPos X="27" Y="12"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\examples\helphtml\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="40"/>
+        <CursorPos X="44" Y="56"/>
+        <UsageCount Value="5"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\lazarus\lcl\include\radiogroup.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="332"/>
+        <CursorPos X="1" Y="350"/>
+        <UsageCount Value="6"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="result.lfm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1673"/>
+        <CursorPos X="14" Y="1064"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit18>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="208" Column="19" TopLine="178"/>
+      </Position1>
+      <Position2>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="206" Column="19" TopLine="188"/>
+      </Position2>
+      <Position3>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="154" Column="28" TopLine="120"/>
+      </Position3>
+      <Position4>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="151" Column="25" TopLine="133"/>
+      </Position4>
+      <Position5>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="121" Column="78" TopLine="115"/>
+      </Position5>
+      <Position6>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="120" Column="79" TopLine="110"/>
+      </Position6>
+      <Position7>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="133" Column="54" TopLine="109"/>
+      </Position7>
+      <Position8>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="138" Column="9" TopLine="104"/>
+      </Position8>
+      <Position9>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="128" Column="64" TopLine="107"/>
+      </Position9>
+      <Position10>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="136" Column="48" TopLine="119"/>
+      </Position10>
+      <Position11>
+        <Filename Value="options.pas"/>
+        <Caret Line="106" Column="28" TopLine="73"/>
+      </Position11>
+      <Position12>
+        <Filename Value="options.pas"/>
+        <Caret Line="105" Column="28" TopLine="72"/>
+      </Position12>
+      <Position13>
+        <Filename Value="options.pas"/>
+        <Caret Line="104" Column="28" TopLine="71"/>
+      </Position13>
+      <Position14>
+        <Filename Value="result.pas"/>
+        <Caret Line="23" Column="10" TopLine="1"/>
+      </Position14>
+      <Position15>
+        <Filename Value="options.pas"/>
+        <Caret Line="78" Column="23" TopLine="1"/>
+      </Position15>
+      <Position16>
+        <Filename Value="options.pas"/>
+        <Caret Line="77" Column="23" TopLine="26"/>
+      </Position16>
+      <Position17>
+        <Filename Value="info.pas"/>
+        <Caret Line="30" Column="23" TopLine="1"/>
+      </Position17>
+      <Position18>
+        <Filename Value="info.pas"/>
+        <Caret Line="32" Column="23" TopLine="1"/>
+      </Position18>
+      <Position19>
+        <Filename Value="info.pas"/>
+        <Caret Line="31" Column="23" TopLine="1"/>
+      </Position19>
+      <Position20>
+        <Filename Value="new.pas"/>
+        <Caret Line="130" Column="6" TopLine="113"/>
+      </Position20>
+      <Position21>
+        <Filename Value="new.pas"/>
+        <Caret Line="129" Column="11" TopLine="103"/>
+      </Position21>
+      <Position22>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="306" Column="48" TopLine="271"/>
+      </Position22>
+      <Position23>
+        <Filename Value="result.pas"/>
+        <Caret Line="238" Column="59" TopLine="215"/>
+      </Position23>
+      <Position24>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="516" Column="18" TopLine="15"/>
+      </Position24>
+      <Position25>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="216" Column="26" TopLine="201"/>
+      </Position25>
+      <Position26>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="141" Column="23" TopLine="127"/>
+      </Position26>
+      <Position27>
+        <Filename Value="result.pas"/>
+        <Caret Line="197" Column="69" TopLine="113"/>
+      </Position27>
+      <Position28>
+        <Filename Value="globalvar.pas"/>
+        <Caret Line="499" Column="31" TopLine="480"/>
+      </Position28>
+      <Position29>
+        <Filename Value="main.pas"/>
+        <Caret Line="142" Column="49" TopLine="107"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

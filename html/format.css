@@ -1,0 +1,101 @@
+/***********************************************************************************************************************
+DOCUMENT: style/format.css
+DEVELOPED BY: Ryan Stemkoski
+COMPANY: Zipline Interactive
+EMAIL: ryan@gozipline.com
+PHONE: 509-321-2849
+DATE: 2/26/2009
+DESCRIPTION: This document contains the structural formatting files for the accordion style menu.
+************************************************************************************************************************/
+
+
+
+/* Edited by M Industrie*/
+
+
+#wrapper {
+	width: 270px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.accordionButton{	
+	width: 270px;
+	height: 40px;
+	float: left;
+	_float: none;  /* Float works in all browsers but IE6 */
+	background: url(img/button.png) repeat-x top left;
+	cursor: pointer;
+}
+	
+.accordionButton a{
+	/* The section titles */
+	display:block;
+	font-family:BPreplay,Arial,Helvetica,sans-serif;
+	font-size:21px;
+	height:34px;
+	overflow:hidden;
+	padding:10px 30px 0;
+	position:relative;
+	width:220px;
+	color:#CFB52B;
+}
+.accordionButton:hover{
+	/* Removing the inherited underline from the titles */
+	text-decoration:none;
+	background-position:bottom left;
+}
+	
+.accordionContent {	
+	padding-top:2px;
+	width:100%;
+	float: left;
+	_float: none; /* Float works in all browsers but IE6 */
+	cursor: pointer;
+}
+	
+.accordionContent li{
+	/* Each element in the expandable list */
+	background-color:#373128;
+	border:1px solid #40392C;
+	margin:1px 0;
+	text-decoration:none;
+}
+
+.accordionContent li a{
+	display:block;
+	height:100%;
+	width:100%;
+	padding:4px 34px;
+	color:#CCCCCC;
+}
+
+.accordionContent li a:hover{
+	/* Each element in the expandable list */
+	text-decoration:underline;
+}
+
+#menu ul{
+	margin:0 0 3px;
+	padding:0;
+}
+
+
+#menu li{
+	list-style:none;
+	text-align:left;
+}
+	
+/***********************************************************************************************************************
+ EXTRA STYLES ADDED FOR MOUSEOVER / ACTIVE EVENTS
+************************************************************************************************************************/
+.on {
+	background: url(img/button_hover.png) repeat-x top left;
+}
+.on:hover{	
+	background-position:bottom left;
+}
+
+.accordionContent li.on{
+	background: #C60 none;
+}

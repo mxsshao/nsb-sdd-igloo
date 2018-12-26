@@ -1,0 +1,48 @@
+unit Calculate;
+
+{$mode objfpc}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, ComCtrls,
+  GlobalVar;
+
+type
+
+  { TFrmCalculate }
+
+  TFrmCalculate = class(TForm)
+    PrgBarCalculate: TProgressBar;
+    procedure FormShow(Sender: TObject);
+    procedure Progress;
+  private
+    { private declarations }
+  public
+    { public declarations }
+  end;
+
+var
+  FrmCalculate: TFrmCalculate;
+
+implementation
+
+{$R *.lfm}
+
+{ TFrmCalculate }
+
+procedure TFrmCalculate.FormShow(Sender: TObject);
+begin
+  Progress;
+end;
+
+procedure Progress;
+begin
+  repeat
+        @PrgBarCalculate.Position := @PrgBarCalculate.Position;
+        sleep(1500);
+  until @PrgBarCalculate.Position = 100;
+end;
+
+end.
+
