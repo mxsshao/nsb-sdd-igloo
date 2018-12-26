@@ -10,6 +10,6 @@ Built using Lazarus IDE and Pascal
 
 ## Screenshots
 
-![Main Screen](/screenshots/main.png | width=100)
+![Main Screen](/screenshots/main.png)
 
-![Results Screen](/screenshots/results.png | width=100)
+![Results Screen](/screenshots/results.png)
